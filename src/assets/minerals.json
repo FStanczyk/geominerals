@@ -1,0 +1,48 @@
+{
+    "minerals": [
+        {
+            "id": 0,
+            "name": "Kamol",
+            "type": "",
+            "subtype": "",
+            "group": "",
+            "image": ["https://forumlogopedy.pl/media/cache/resolve/thumb/uploads/5f1/ab3/5f1ab3367573b772867924.png"],
+            "formula": "",
+            "hardness": "",
+            "description": ""
+        },
+        {
+            "id": 1,
+            "name": "Kamol2",
+            "type": "",
+            "subtype": "",
+            "group": "",
+            "image": ["https://forumlogopedy.pl/media/cache/resolve/thumb/uploads/5f1/ab3/5f1ab3367573b772867924.png"],
+            "formula": "",
+            "hardness": "",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "name": "Kamol3",
+            "type": "",
+            "subtype": "",
+            "group": "",
+            "image": ["https://forumlogopedy.pl/media/cache/resolve/thumb/uploads/5f1/ab3/5f1ab3367573b772867924.png"],
+            "formula": "",
+            "hardness": "",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Kamol4",
+            "type": "",
+            "subtype": "",
+            "group": "",
+            "image": ["https://forumlogopedy.pl/media/cache/resolve/thumb/uploads/5f1/ab3/5f1ab3367573b772867924.png"],
+            "formula": "",
+            "hardness": "",
+            "description": ""
+        }
+    ]
+}

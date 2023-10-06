@@ -1,0 +1,54 @@
+:root {
+    --yellow: #FDE99B;
+    --light: #139A43 ;
+    --mid: #139A43;
+    --deep: #053B06 ;
+    --black: #000000;
+  }
+
+.button_standard{
+    background-color:var(--yellow);
+    width: 35vw;
+    height: 4vh;
+    margin-inline: auto;
+    text-align: center;
+    font-size: 26px;
+    margin-block: 2%;
+}
+
+.button_standard:hover{
+    background-color: var(--deep);
+    cursor: pointer;
+}
+
+
+.button_answer:hover{
+    background-color: var(--deep);
+    cursor: pointer;
+}
+
+.button_answer.correct {
+    background-color: var(--light); /* or any style you want for correct answers */
+  }
+  
+.button_answer.incorrect {
+    background-color: red; /* or any style you want for incorrect answers */
+}
+
+
+.button_answer{
+    background-color:var(--yellow);
+    width: 90%;
+    height:80%;
+    margin-inline: auto;
+    text-align: center;
+    font-size: 26px;
+    margin-block: 2%;
+}
+
+.button_standard:hover{
+    background-color: var(--deep);
+    cursor: pointer;
+}
+
+
